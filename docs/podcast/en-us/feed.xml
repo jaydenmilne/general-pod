@@ -1,0 +1,224 @@
+<rss version="2.0">
+    <channel xmlns="https://www.rssboard.org/rss-specification">
+        <title xmlns="https://www.rssboard.org/rss-specification">General Conference (Unofficial)</title>
+        <link xmlns="https://www.rssboard.org/rss-specification">https://generalpod.jayd.ml</link>
+        <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[The unofficial podcast feed for talks from the General Conference of the Church of Jesus Christ of Latter Day Saints. This podcast is unaffiliated with the Church of Jesus Christ of Latter Day Saints.]]></description>
+        <language xmlns="https://www.rssboard.org/rss-specification">en-us</language>
+        <pubDate xmlns="https://www.rssboard.org/rss-specification">Thu May 29 20:18:38 -0600 2025</pubDate>
+        <lastBuildDate xmlns="https://www.rssboard.org/rss-specification">Thu May 29 20:18:38 -0600
+            2025</lastBuildDate>
+        <generator xmlns="https://www.rssboard.org/rss-specification">
+            https://github.com/jaydenmilne/general-pod</generator>
+        <docs xmlns="https://www.rssboard.org/rss-specification">
+            https://www.rssboard.org/rss-specification</docs>
+        <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd"
+            href="https://github.com/jaydenmilne/general-pod/docs/assets/en-us/itunes_image.jpg"></image>
+        <category xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd"
+            text="Religion &amp; Spirituality">
+            <category xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Christianity"></category>
+        </category>
+        <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+        <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Jayden Milne</author>
+        <type xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">episodic</type>
+        <location xmlns="https://podcastindex.org/namespace/1.0" geo="geo:40.7725,-111.8925"
+            osm="R6146196">Conference Center</location>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">Right Before Our Eyes by Elder
+                Ronald A. Rasband</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/15rasband?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[Right Before Our Eyes by Elder Ronald A. Rasband, Of the Quorum of the Twelve Apostles
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/15rasband?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/uuuij8v7wzdv2ri8na8y7pbh6gbnvuemv58r22uz-128k-en.mp3"
+                length="13256445" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                316f4fef-e82f-4b86-a4be-3eb6de82ce5c</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">828.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">10003</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/1a2bc5b7-dd8d-43b2-b6af-4d80284d03aa/08614273-0956-419e-9884-3df4f9cbf2bb/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/ronald-a-rasband?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/c922f38499accfa2b7b23ceaf749bab21292ab0f/full/!320%2C384/0/default">Elder
+                Ronald A. Rasband</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">4</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">Spiritually Whole in Him by
+                President Camille N. Johnson</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/14johnson?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[Spiritually Whole in Him by President Camille N. Johnson, Relief Society General President
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/14johnson?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/owl56cnh58bk1ui0gma6f3zghd6eaapl1e3ez84v-128k-en.mp3"
+                length="10831870" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                d4856fe4-c037-43e0-803f-208a02979491</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">676.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">10002</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/7c5520c0-4183-4beb-b6bd-452e792932e0/b1cdbf10-daa7-481e-ac60-b1812719e328/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/camille-n-johnson?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/07b2a00040f711ed8f59eeeeac1ed36b58f3ae5f/full/!320%2C400/0/default">President
+                Camille N. Johnson</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">3</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">As a Little Child by President
+                Jeffrey R. Holland</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[As a Little Child by President Jeffrey R. Holland, Acting President of the Quorum of the Twelve Apostles
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/13holland?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/n80cwfgri9360z4n0mckkekxkfa5v530a8v4nyj0-128k-en.mp3"
+                length="14363134" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                cdfa9314-14c3-4806-a0a2-37f5a879d308</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">897.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">10001</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/21a56d6e-9a65-491d-8bfd-3dd091241cde/4e51b9c6-ce5b-495c-b9d2-27646c6f81da/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/jeffrey-r-holland?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/9799926c71ef33de86b343988888a4ea2a05a1a3/full/!320%2C384/0/default">President
+                Jeffrey R. Holland</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">2</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">Saturday Morning Session
+                (complete)</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/saturday-morning-session?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[Saturday Morning Session (complete)
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/saturday-morning-session?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/byq83xznuic5um1jll088q8yp8b6hlhhtk889a78-128k-en.mp3"
+                length="115511044" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                55dd8c06-867f-483e-b907-6b3fc03138de</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">7219.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">10000</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0" url="" type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author" href="" img=""></person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">1</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">“Draw Near unto Me” by
+                President Henry B. Eyring</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/18eyring?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[“Draw Near unto Me” by President Henry B. Eyring, Second Counselor in the First Presidency
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/18eyring?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/m5sbush15vn9q9vwnbxbmpvtlmri3t9z7wt6ogn5-128k-en.mp3"
+                length="16205179" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                a597edc9-5904-4e46-9971-adf7482328eb</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1012.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">7</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/ead395e7-2c7c-4dcc-86fb-aa551fa636d8/005b7063-894c-4de1-a9ed-701009ab4c31/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/henry-b-eyring?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/cd25ccb9b3b1878fdbf9570f65b850d8267c5320/full/!320%2C384/0/default">President
+                Henry B. Eyring</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">7</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">My Love for the Savior Is My
+                “Why” by Elder Ricardo P. Giménez</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/17gimenez?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[My Love for the Savior Is My “Why” by Elder Ricardo P. Giménez, Of the Seventy
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/17gimenez?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/7f6xhpd8lraheb37nx0k0s2im1eozdojrfixte14-128k-en.mp3"
+                length="9886077" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                a1f4453d-7c7f-4c90-b9bb-918a1de38f24</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">617.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">6</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/79d95ff4-1a8a-461d-89d8-57d96cdaba67/3e80dbc3-1f39-4b85-9b1e-352ded3d8bfd/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/ricardo-p-gimenez?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/5df33b110043a87b05ee1093dff26ad5b31166c3/full/!320%2C400/0/default">Elder
+                Ricardo P. Giménez</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">6</episode>
+        </item>
+        <item xmlns="https://www.rssboard.org/rss-specification">
+            <title xmlns="https://www.rssboard.org/rss-specification">The Atonement of Jesus Christ
+                Provides the Ultimate Rescue by Elder Quentin L. Cook</title>
+            <link xmlns="https://www.rssboard.org/rss-specification">
+                https://www.churchofjesuschrist.org/study/general-conference/2025/04/16cook?lang=eng</link>
+            <description xmlns="https://www.rssboard.org/rss-specification"><![CDATA[The Atonement of Jesus Christ Provides the Ultimate Rescue by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+Link: https://www.churchofjesuschrist.org/study/general-conference/2025/04/16cook?lang=eng]]></description>
+            <enclosure xmlns="https://www.rssboard.org/rss-specification"
+                url="https://assets.churchofjesuschrist.org/nf96ca666opotxw763q936t4o6bcnni92vaywur8-128k-en.mp3"
+                length="13498747" type="audio/mpeg"></enclosure>
+            <guid xmlns="https://www.rssboard.org/rss-specification" isPermaLink="false">
+                2b120a99-3239-449c-8e78-f19da58ce7af</guid>
+            <pubDate xmlns="https://www.rssboard.org/rss-specification">Sun Apr 06 16:30:00 -0600
+                2025</pubDate>
+            <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">843.000000</duration>
+            <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">false</explicit>
+            <episode xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">5</episode>
+            <season xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">195</season>
+            <transcript xmlns="https://podcastindex.org/namespace/1.0"
+                url="http://lds.brightcovecdn.com/media/v1/text/vtt/clear/1241706627001/d32e728b-9ef6-4949-b09a-e47389c490b4/bc719663-8706-4d23-bee1-9cbf5117797a/text.vtt"
+                type="text/vtt"></transcript>
+            <person xmlns="https://podcastindex.org/namespace/1.0" role="Author"
+                href="https://www.churchofjesuschrist.org/learn/quentin-l-cook?lang=eng"
+                img="https://www.churchofjesuschrist.org/imgs/647633e40fd7d23059b1f4f96a8c76705764a95a/full/!320%2C384/0/default">Elder
+                Quentin L. Cook</person>
+            <season xmlns="https://podcastindex.org/namespace/1.0"
+                name="April 2025 Conference (195)">195</season>
+            <episode xmlns="https://podcastindex.org/namespace/1.0">5</episode>
+        </item>
+    </channel>
+</rss>
